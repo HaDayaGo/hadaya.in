@@ -1,0 +1,58 @@
+hadayago
+Hardik Gondaliya
+==================================================================
+https://keybase.io/hadayago
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://hadaya.in
+  * I am hadayago (https://keybase.io/hadayago) on keybase.
+  * I have a public key ASAfBZaCVPzfuiwbyxxs0VqhB90MCvLTPnph88sU9dMrogo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207b6faaa8d061782d0541690de102485b9634223158bf6a4d8959e96cf152f11f0a",
+      "host": "keybase.io",
+      "kid": "01201f05968254fcdfba2c1bcb1c6cd15aa107dd0c0af2d33e7a61f3cb14f5d32ba20a",
+      "uid": "f1eb9debc07129009805de7171f52819",
+      "username": "hadayago"
+    },
+    "merkle_root": {
+      "ctime": 1596543363,
+      "hash": "537c28600d31251dd68015312f91c1ab3fb8da779058328a0a9b6187ddd64666fb1bcafe05e463eb8ef290fc1b0ff14edba36e162d0d10aeed6aeb3bd18f8644",
+      "hash_meta": "d0c6ac94ea249e98295522c42e0e9ba6066c3792bc4db1a161c78042ab208ba5",
+      "seqno": 17176806
+    },
+    "service": {
+      "entropy": "LR1LXU1+pofEfeOFM99cUqSg",
+      "hostname": "hadaya.in",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1596543427,
+  "expire_in": 504576000,
+  "prev": "48f50412124877275a3a48415ed576ba992dea298477fea0567083cff8e44582",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHwWWglT837osG8scbNFaoQfdDAry0z56YfPLFPXTK6IKp3BheWxvYWTESpcCF8QgSPUEEhJIdydaOkhBXtV2upkt6imEd/6gVnCDz/jkRYLEIKsnco5iNBjomQsg98OYRbhSyUUXqFqPC+ZcEofoKV/uAgHCo3NpZ8RAK3z++sNIbEq1ql9gBNnGmpu9R4/MngPn50ly+pU5476pqkjDYk5I+lg4uWU4Ah0vcdmZ6NpsnBYfcrojChEKBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE/xIhYzccmb183JDwRlKPhz2XdqTgX+rQ8w7MFRGSdvo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hadayago
+
+==================================================================
